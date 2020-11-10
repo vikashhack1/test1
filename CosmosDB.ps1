@@ -1,4 +1,5 @@
 ﻿Connect-AzAccount
+ #testvikash
 Set-AzureRmContext -SubscriptionId 'd1be0ef8-b110-417e-992e-71a61d0e06cf'
 
 Install-Module -Name Az.CosmosDB
